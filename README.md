@@ -1,6 +1,7 @@
 learning-azure-secrets-management
 # Learning Azure Secrets Management
 
+- [Abstract Concept](./ABSTRACT_CONCEPT.md)
 - [References](./REFERENCES.md)
 
 ## 100 - Introduction
